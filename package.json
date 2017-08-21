@@ -1,0 +1,23 @@
+{
+  "name": "vertx-bus-client",
+  "version": "1.0.0",
+  "description": "The `vertx-eventbus.js` file is a SockJS-based event bus bridge to connect your JavaScript frontend application to Vert .x 3.x. You can use it in a front-end application or in a node.js application.",
+  "main": "vertx-eventbus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vert-x3/vertx-bus-bower.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vert-x3/vertx-bus-bower/issues"
+  },
+  "homepage": "https://github.com/vert-x3/vertx-bus-bower#readme",
+  "dependencies": {
+    "vertx3-eventbus-client": "^3.4.2"
+  }
+}
